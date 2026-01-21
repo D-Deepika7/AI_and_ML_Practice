@@ -1,2 +1,3 @@
 # AI_and_ML_Practice
-This repository is for keeping track of AI &amp; ML tasks that I completed.
+
+> This repository is part of a multi-task AI & ML internship project and will be updated with future tasks.
